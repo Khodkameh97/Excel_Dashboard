@@ -56,7 +56,7 @@ Average Revenue per Box: €34.93
 ---
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Chocolate_Sales_Dashboard.png)
 
 ---
 
